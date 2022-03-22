@@ -1,3 +1,12 @@
+installation:
+
+```
+$ python3 -m pip install --user --upgrade pip wheel
+$ python3 -m pip install --user https://github.com/phlummox-patches/knitty/archive/master.zip
+```
+
+
+
 # Knitty
 
 [![Build Status](https://travis-ci.org/kiwi0fruit/knitty.svg?branch=master)](https://travis-ci.org/kiwi0fruit/knitty)
