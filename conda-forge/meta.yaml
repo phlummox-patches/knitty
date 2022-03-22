@@ -31,7 +31,7 @@ requirements:
     - jupyter_client
     - nbconvert >=5.4.1
     - pandocfilters
-    - py-pandoc >=2.6
+    #- py-pandoc >=2.6
     - click
     - psutil
     - pyyaml
